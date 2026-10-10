@@ -1,0 +1,4 @@
+
+> start
+> tsx ./src/index.ts addfeed Hacker News RSS https://hnrss.org/newest
+

@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "drizzle-kit": "^0.31.11",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "tsx ./src/index.ts"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.45.4",
+    "fast-xml-parser": "^5.11.2",
+    "postgres": "^3.4.9"
+  }
+}
